@@ -17,4 +17,16 @@ As listas estão separadas por pastas, contendo os arquivos `.c` correspondentes
 
 ---
 
+
+📄 Listas de Exercícios (Drive)
+
+As listas de exercícios originais (PDF/Drive) disponibilizadas na disciplina estão armazenadas no Google Drive.
+
+🔗 Link do Drive:
+
+(adicione aqui o link da pasta do Drive com as listas)
+
+Esses arquivos servem como referência para as resoluções em C que estão neste repositório.
+
+
 📌 *Repositório criado para fins educacionais e acadêmicos.*
