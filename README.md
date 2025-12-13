@@ -27,6 +27,21 @@ As listas de exercícios originais (PDF/Drive) disponibilizadas na disciplina es
 lista 1: 
 https://drive.google.com/file/d/1Fqm23Cxt7wPOOiYMmjihZ93D5y-J79TF/view?usp=classroom_web&authuser=1
 
+lista 2:
+https://drive.google.com/file/d/1cbkoctGfwTJptt-yp7tlgOpmuiZuPEI-/view?usp=classroom_web&authuser=1
+
+lista 3:
+https://drive.google.com/file/d/1E6eFcND95L999VSU7rBE3vZ-qCac0PGt/view?usp=classroom_web&authuser=1
+
+lista 4:
+https://drive.google.com/file/d/1yTZ2SZIdFCAkhBgm1DN7_StCZK8U2d1C/view?usp=classroom_web&authuser=1
+
+lista 5: 
+https://drive.google.com/file/d/1Etm6ycEOkQKEAYrusphDTYpHIiM8nNuW/view?usp=classroom_web&authuser=1
+
+lista 6:
+https://drive.google.com/file/d/12IM2xTgrdev8DQkq-mS4uBnGkZvO23VT/view?usp=classroom_web&authuser=1
+
 
 Esses arquivos servem como referência para as resoluções em C que estão neste repositório.
 
