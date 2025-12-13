@@ -25,7 +25,7 @@ As listas de exercícios originais (PDF/Drive) disponibilizadas na disciplina es
 🔗 Link do Drive:
 
 lista 1: 
-file:///home/matheus-souza/Downloads/1a%20Lista%20de%20Exerc%C3%ADcios.pdf
+https://drive.google.com/file/d/1Fqm23Cxt7wPOOiYMmjihZ93D5y-J79TF/view?usp=classroom_web&authuser=1
 
 lista 2:
 https://drive.google.com/file/d/1cbkoctGfwTJptt-yp7tlgOpmuiZuPEI-/view?usp=classroom_web&authuser=1
