@@ -24,7 +24,9 @@ As listas de exercícios originais (PDF/Drive) disponibilizadas na disciplina es
 
 🔗 Link do Drive:
 
-(adicione aqui o link da pasta do Drive com as listas)
+lista 1
+https://drive.google.com/file/d/1Fqm23Cxt7wPOOiYMmjihZ93D5y-J79TF/view?usp=classroom_web&authuser=1
+
 
 Esses arquivos servem como referência para as resoluções em C que estão neste repositório.
 
