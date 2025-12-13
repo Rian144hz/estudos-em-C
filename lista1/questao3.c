@@ -7,3 +7,7 @@ int main(void)
     printf("O valor digitado foi: %d\n", valor);
     return 0;
 }
+
+
+
+
