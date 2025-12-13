@@ -1,4 +1,4 @@
-# Estudos em C 🅲
+# Estudos em 🅲
 
 Este repositório foi criado para armazenar e organizar todas as **listas de exercícios resolvidas em linguagem C**.
 
