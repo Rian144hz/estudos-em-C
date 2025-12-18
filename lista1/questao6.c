@@ -9,7 +9,3 @@ void main()
     printf("O número digtado foi: %d \n", numero);
     printf("Com adicional ficou: %d", adicional);
 }
-
-
-
-
