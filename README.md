@@ -1,0 +1,49 @@
+# Estudos em 🅲
+
+Este repositório foi criado para armazenar e organizar todas as **listas de exercícios resolvidas em linguagem C**.
+
+Atualmente, estou cursando **Ciência da Computação** e estou estudando a linguagem C na faculdade. O objetivo deste repositório é acompanhar minha evolução na programação, praticar lógica, estruturação de algoritmos e os conceitos fundamentais da linguagem.
+
+## 🎯 Objetivos do repositório
+
+* Resolver todas as listas propostas na disciplina utilizando **C**
+* Praticar lógica de programação e pensamento computacional
+* Manter um histórico de aprendizado e evolução
+* Servir como material de consulta no futuro
+
+## 📂 Organização
+
+As listas estão separadas por pastas, contendo os arquivos `.c` correspondentes a cada questão.
+
+---
+
+
+📄 Listas de Exercícios (Drive)
+
+As listas de exercícios originais (PDF/Drive) disponibilizadas na disciplina estão armazenadas no Google Drive.
+
+🔗 Link do Drive:
+
+lista 1: 
+https://drive.google.com/file/d/1Fqm23Cxt7wPOOiYMmjihZ93D5y-J79TF/view?usp=classroom_web&authuser=1
+
+lista 2:
+https://drive.google.com/file/d/1cbkoctGfwTJptt-yp7tlgOpmuiZuPEI-/view?usp=classroom_web&authuser=1
+
+lista 3:
+https://drive.google.com/file/d/1E6eFcND95L999VSU7rBE3vZ-qCac0PGt/view?usp=classroom_web&authuser=1
+
+lista 4:
+https://drive.google.com/file/d/1yTZ2SZIdFCAkhBgm1DN7_StCZK8U2d1C/view?usp=classroom_web&authuser=1
+
+lista 5: 
+https://drive.google.com/file/d/1Etm6ycEOkQKEAYrusphDTYpHIiM8nNuW/view?usp=classroom_web&authuser=1
+
+lista 6:
+https://drive.google.com/file/d/12IM2xTgrdev8DQkq-mS4uBnGkZvO23VT/view?usp=classroom_web&authuser=1
+
+
+Esses arquivos servem como referência para as resoluções em C que estão neste repositório.
+
+
+📌 *Repositório criado para fins educacionais e acadêmicos.*
