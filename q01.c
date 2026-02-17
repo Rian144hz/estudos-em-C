@@ -1,31 +1,30 @@
 #include <stdio.h>
-int main()
-{
-    int linhas;
-    int colunas;
 
-    printf("Digite a quantidade de linhas da sua matriz: ");
-    scanf("%d", &linhas);
-
-    printf("Digite a quantidade de colunas da sua matriz: ");
-    scanf("%d", &colunas);
-
-    int matriz[linhas][colunas];
-    for (int i = 0; i < linhas; i++)
+int fatorial(int numero){
+    if (numero == 0){
+        return 1;
+    }
+    else
     {
-        for (int j = 0; j < colunas; j++)
-        {
-            printf("Digite os números da sua matriz[%d][%d]:", i + 1, j + 1);
-            scanf("%d", &matriz[i][j]);
-        }
+        return numero * fatorial(numero - 1);
     }
-    printf("\nMATRIZ DIGITADA PRINTADA!\n");
-    for (int i = 0; i < linhas; i++){
-        for (int j = 0; j < colunas; j++){
-            printf("%d ", matriz[i][j]);
-        }
-        printf("\n");
-    }
+}
+int main(){
+int n;
+int resultado;
+printf("Digite um número para saber seu fatorial: ");
+scanf("%d",&n);
 
-    return 0;
+resultado = fatorial(n);
+
+printf("O fatorial é: %d\n",resultado);
+
+
+
+
+
+
+
+
+return 0;
 }
