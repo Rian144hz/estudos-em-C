@@ -91,7 +91,7 @@ int main()
         // aqui se o numero de jogadas for igual a nove, pois o maximo de jogadas é nove,
         if (jogadas == 9)
         {
-            printf("Empate!");
+            printf("Empate!\n");
             break;
         }
     }
